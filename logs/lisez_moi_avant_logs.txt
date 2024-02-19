@@ -1,0 +1,1 @@
+Nos logs sont longs car l'affichage se fait dans l'action, et qu'un grand nombre de tours est nécessaire pour que la simulation devienne intéressante (pour acquérir les nouvelles ressources transformées par l'usine). Cependant les tours sont similaires, et l'essentiel est la fin de la simulation qui indique le nombre de ressources transformées obtenues lors de cette simulation.
